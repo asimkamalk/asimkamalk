@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asim Kamal</h1>
 <h3 align="center">A passionate Full Stack (MERN STACK) Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asimkamalk&label=Profile%20views&color=0e75b6&style=flat" alt="asimkamalk" /> </p>
-
 <p align="left"> <a href="https://twitter.com/asimkamalk" target="blank"><img src="https://img.shields.io/twitter/follow/asimkamalk?logo=twitter&style=for-the-badge" alt="asimkamalk" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack (Node js, Express js, MongoDB, React js))**
@@ -24,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asimkamalk&show_icons=true&locale=en&layout=compact" alt="asimkamalk" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asimkamalk&" alt="asimkamalk" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asimkamalk&theme=dark" alt="asimkamalk" /></p>
