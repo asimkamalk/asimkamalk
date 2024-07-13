@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack (Node js, Express js, MongoDB, React js))**
 
-- 💬 Ask me about **React js, Express js.**
+- 💬 Ask me about **React js, Node js, Express js, MongoDB.**
 
 - 📫 How to reach me **asimkamalk@gmail.com**
 
