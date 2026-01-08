@@ -22,3 +22,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asimkamalk&" alt="asimkamalk" /></p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asimkamalk&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
